@@ -1,0 +1,45 @@
+[0.043s] Invoking command in '/home/midday/turtlebot3_ws/src/build/turtlebot3_cartographer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/midday/turtlebot3_ws/install/turtlebot3_teleop:/home/midday/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake /home/midday/turtlebot3_ws/src/turtlebot3/turtlebot3_cartographer -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/midday/turtlebot3_ws/src/install/turtlebot3_cartographer
+[0.274s] -- The C compiler identification is GNU 11.4.0
+[0.576s] -- The CXX compiler identification is GNU 11.4.0
+[0.795s] -- Detecting C compiler ABI info
+[0.912s] -- Detecting C compiler ABI info - done
+[0.920s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.921s] -- Detecting C compile features
+[0.921s] -- Detecting C compile features - done
+[0.924s] -- Detecting CXX compiler ABI info
+[1.067s] -- Detecting CXX compiler ABI info - done
+[1.077s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.078s] -- Detecting CXX compile features
+[1.078s] -- Detecting CXX compile features - done
+[1.081s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.263s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.342s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.454s] -- Configuring done
+[1.456s] -- Generating done
+[1.457s] -- Build files have been written to: /home/midday/turtlebot3_ws/src/build/turtlebot3_cartographer
+[1.471s] Invoked command in '/home/midday/turtlebot3_ws/src/build/turtlebot3_cartographer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/midday/turtlebot3_ws/install/turtlebot3_teleop:/home/midday/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake /home/midday/turtlebot3_ws/src/turtlebot3/turtlebot3_cartographer -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/midday/turtlebot3_ws/src/install/turtlebot3_cartographer
+[1.478s] Invoking command in '/home/midday/turtlebot3_ws/src/build/turtlebot3_cartographer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/midday/turtlebot3_ws/install/turtlebot3_teleop:/home/midday/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --build /home/midday/turtlebot3_ws/src/build/turtlebot3_cartographer -- -j12 -l12
+[1.507s] Invoked command in '/home/midday/turtlebot3_ws/src/build/turtlebot3_cartographer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/midday/turtlebot3_ws/install/turtlebot3_teleop:/home/midday/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --build /home/midday/turtlebot3_ws/src/build/turtlebot3_cartographer -- -j12 -l12
+[1.530s] Invoking command in '/home/midday/turtlebot3_ws/src/build/turtlebot3_cartographer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/midday/turtlebot3_ws/install/turtlebot3_teleop:/home/midday/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --install /home/midday/turtlebot3_ws/src/build/turtlebot3_cartographer
+[1.535s] -- Install configuration: ""
+[1.536s] -- Execute custom install script
+[1.536s] -- Symlinking: /home/midday/turtlebot3_ws/src/install/turtlebot3_cartographer/share/turtlebot3_cartographer/config/turtlebot3_lds_2d.lua
+[1.547s] -- Symlinking: /home/midday/turtlebot3_ws/src/install/turtlebot3_cartographer/share/turtlebot3_cartographer/launch/cartographer.launch.py
+[1.553s] -- Symlinking: /home/midday/turtlebot3_ws/src/install/turtlebot3_cartographer/share/turtlebot3_cartographer/launch/occupancy_grid.launch.py
+[1.562s] -- Symlinking: /home/midday/turtlebot3_ws/src/install/turtlebot3_cartographer/share/turtlebot3_cartographer/rviz/tb3_cartographer.rviz
+[1.571s] -- Symlinking: /home/midday/turtlebot3_ws/src/install/turtlebot3_cartographer/share/ament_index/resource_index/package_run_dependencies/turtlebot3_cartographer
+[1.579s] -- Symlinking: /home/midday/turtlebot3_ws/src/install/turtlebot3_cartographer/share/ament_index/resource_index/parent_prefix_path/turtlebot3_cartographer
+[1.589s] -- Symlinking: /home/midday/turtlebot3_ws/src/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/ament_prefix_path.sh
+[1.602s] -- Symlinking: /home/midday/turtlebot3_ws/src/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/ament_prefix_path.dsv
+[1.618s] -- Symlinking: /home/midday/turtlebot3_ws/src/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/path.sh
+[1.637s] -- Symlinking: /home/midday/turtlebot3_ws/src/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/path.dsv
+[1.650s] -- Symlinking: /home/midday/turtlebot3_ws/src/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.bash
+[1.660s] -- Symlinking: /home/midday/turtlebot3_ws/src/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.sh
+[1.672s] -- Symlinking: /home/midday/turtlebot3_ws/src/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.zsh
+[1.684s] -- Symlinking: /home/midday/turtlebot3_ws/src/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.dsv
+[1.697s] -- Symlinking: /home/midday/turtlebot3_ws/src/install/turtlebot3_cartographer/share/turtlebot3_cartographer/package.dsv
+[1.716s] -- Symlinking: /home/midday/turtlebot3_ws/src/install/turtlebot3_cartographer/share/ament_index/resource_index/packages/turtlebot3_cartographer
+[1.723s] -- Symlinking: /home/midday/turtlebot3_ws/src/install/turtlebot3_cartographer/share/turtlebot3_cartographer/cmake/turtlebot3_cartographerConfig.cmake
+[1.735s] -- Symlinking: /home/midday/turtlebot3_ws/src/install/turtlebot3_cartographer/share/turtlebot3_cartographer/cmake/turtlebot3_cartographerConfig-version.cmake
+[1.744s] -- Symlinking: /home/midday/turtlebot3_ws/src/install/turtlebot3_cartographer/share/turtlebot3_cartographer/package.xml
+[1.768s] Invoked command in '/home/midday/turtlebot3_ws/src/build/turtlebot3_cartographer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/midday/turtlebot3_ws/install/turtlebot3_teleop:/home/midday/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --install /home/midday/turtlebot3_ws/src/build/turtlebot3_cartographer

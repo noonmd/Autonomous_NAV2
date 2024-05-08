@@ -1,0 +1,29 @@
+[0.531s] Invoking command in '/home/midday/turtlebot3_ws/build/turtlebot3_example': AMENT_PREFIX_PATH=/home/midday/turtlebot3_ws/install/turtlebot3_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/midday/turtlebot3_ws/install/turtlebot3_msgs LD_LIBRARY_PATH=/home/midday/turtlebot3_ws/install/turtlebot3_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/share/gazebo/../../lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/share/gazebo/../../lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/share/gazebo/../../lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/share/gazebo/../../lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/share/gazebo/../../lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/share/gazebo/../../lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/midday/turtlebot3_ws/build/turtlebot3_example/prefix_override:/home/midday/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages:/home/midday/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/midday/turtlebot3_ws/build/turtlebot3_example/build --no-deps symlink_data
+[0.720s] running develop
+[0.720s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.720s]   warnings.warn(
+[0.824s] running egg_info
+[0.824s] creating turtlebot3_example.egg-info
+[0.825s] writing turtlebot3_example.egg-info/PKG-INFO
+[0.825s] writing dependency_links to turtlebot3_example.egg-info/dependency_links.txt
+[0.825s] writing entry points to turtlebot3_example.egg-info/entry_points.txt
+[0.825s] writing requirements to turtlebot3_example.egg-info/requires.txt
+[0.826s] writing top-level names to turtlebot3_example.egg-info/top_level.txt
+[0.826s] writing manifest file 'turtlebot3_example.egg-info/SOURCES.txt'
+[0.828s] reading manifest file 'turtlebot3_example.egg-info/SOURCES.txt'
+[0.828s] writing manifest file 'turtlebot3_example.egg-info/SOURCES.txt'
+[0.829s] running build_ext
+[0.830s] Creating /home/midday/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages/turtlebot3-example.egg-link (link to .)
+[0.830s] Installing turtlebot3_obstacle_detection script to /home/midday/turtlebot3_ws/install/turtlebot3_example/lib/turtlebot3_example
+[0.830s] Installing turtlebot3_patrol_client script to /home/midday/turtlebot3_ws/install/turtlebot3_example/lib/turtlebot3_example
+[0.831s] Installing turtlebot3_patrol_server script to /home/midday/turtlebot3_ws/install/turtlebot3_example/lib/turtlebot3_example
+[0.831s] Installing turtlebot3_position_control script to /home/midday/turtlebot3_ws/install/turtlebot3_example/lib/turtlebot3_example
+[0.831s] 
+[0.831s] Installed /home/midday/turtlebot3_ws/build/turtlebot3_example
+[0.831s] running symlink_data
+[0.831s] creating /home/midday/turtlebot3_ws/install/turtlebot3_example/share/ament_index
+[0.831s] creating /home/midday/turtlebot3_ws/install/turtlebot3_example/share/ament_index/resource_index
+[0.831s] creating /home/midday/turtlebot3_ws/install/turtlebot3_example/share/ament_index/resource_index/packages
+[0.831s] symbolically linking /home/midday/turtlebot3_ws/build/turtlebot3_example/resource/turtlebot3_example -> /home/midday/turtlebot3_ws/install/turtlebot3_example/share/ament_index/resource_index/packages
+[0.831s] symbolically linking /home/midday/turtlebot3_ws/build/turtlebot3_example/package.xml -> /home/midday/turtlebot3_ws/install/turtlebot3_example/share/turtlebot3_example
+[0.856s] Invoked command in '/home/midday/turtlebot3_ws/build/turtlebot3_example' returned '0': AMENT_PREFIX_PATH=/home/midday/turtlebot3_ws/install/turtlebot3_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/midday/turtlebot3_ws/install/turtlebot3_msgs LD_LIBRARY_PATH=/home/midday/turtlebot3_ws/install/turtlebot3_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/share/gazebo/../../lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/share/gazebo/../../lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/share/gazebo/../../lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/share/gazebo/../../lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/share/gazebo/../../lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/share/gazebo/../../lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/midday/turtlebot3_ws/build/turtlebot3_example/prefix_override:/home/midday/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages:/home/midday/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/midday/turtlebot3_ws/build/turtlebot3_example/build --no-deps symlink_data
